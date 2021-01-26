@@ -18,7 +18,6 @@ My submission for Riiid Answer Correctness Prediction competition on kaggle.
 - Prior question had explanation
 
 **Note**- Only data of user before attempting question is used to create train dataset.
----
 
 **Model**- LGBM Classifer
 
