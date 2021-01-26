@@ -5,20 +5,20 @@ My submission for Riiid Answer Correctness Prediction competition on kaggle.
 
 ## Description
 **Features**
-Content/Question features
+1. Content/Question features
 - Question Average Accuracy
 - Question Frequency (No. of times question is asked)
 - Part (Part of test in which question appears)
 
-User Features
+2. User Features
 - User accuracy 
 - User total questions
 - User total correct questions
-
 - Prior question elasped time
 - Prior question had explanation
 
 **Note**- Only data of user before attempting question is used to create train dataset.
+---
 
 **Model**- LGBM Classifer
 
